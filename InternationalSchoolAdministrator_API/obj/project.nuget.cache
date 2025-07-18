@@ -1,18 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "RcFRJBtJEN8=",
-  "success": false,
-  "projectFilePath": "C:\\Users\\phiwo\\source\\repos\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API.csproj",
-  "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.\r\n  An error occurred while sending the request.\r\n  The remote name could not be resolved: 'api.nuget.org'",
-      "projectPath": "C:\\Users\\phiwo\\source\\repos\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API.csproj",
-      "filePath": "C:\\Users\\phiwo\\source\\repos\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API.csproj",
-      "libraryId": "Swashbuckle.AspNetCore",
-      "targetGraphs": []
-    }
-  ]
+  "dgSpecHash": "Adufn7+3VHY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phiwo\\Desktop\\NOGE Technologies\\InternationalSchoolAdministrator_AP\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phiwo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\phiwo\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\phiwo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\phiwo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\phiwo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\phiwo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
 }

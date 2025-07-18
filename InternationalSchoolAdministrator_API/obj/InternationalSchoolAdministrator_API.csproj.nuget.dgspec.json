@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phiwo\\source\\repos\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API.csproj": {}
+    "C:\\Users\\phiwo\\Desktop\\NOGE Technologies\\InternationalSchoolAdministrator_AP\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phiwo\\source\\repos\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API.csproj": {
+    "C:\\Users\\phiwo\\Desktop\\NOGE Technologies\\InternationalSchoolAdministrator_AP\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phiwo\\source\\repos\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API.csproj",
+        "projectUniqueName": "C:\\Users\\phiwo\\Desktop\\NOGE Technologies\\InternationalSchoolAdministrator_AP\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API.csproj",
         "projectName": "InternationalSchoolAdministrator_API",
-        "projectPath": "C:\\Users\\phiwo\\source\\repos\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API.csproj",
+        "projectPath": "C:\\Users\\phiwo\\Desktop\\NOGE Technologies\\InternationalSchoolAdministrator_AP\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API.csproj",
         "packagesPath": "C:\\Users\\phiwo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phiwo\\source\\repos\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API\\obj\\",
+        "outputPath": "C:\\Users\\phiwo\\Desktop\\NOGE Technologies\\InternationalSchoolAdministrator_AP\\InternationalSchoolAdministrator_API\\InternationalSchoolAdministrator_API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,6 +1,6 @@
 ﻿namespace InternationalSchoolAdministrator_API.Models
 {
-    public class CourserModel
+    public class CourseModel
     {
         public int CourseID { get; set; }
 
